@@ -1,0 +1,42 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "React boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebound/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Cenan OZEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebound/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/codebound/react-boilerplate#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-addons-update": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.1",
+    "react-router-redux": "^4.0.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-typecheck": "^3.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
